@@ -1,0 +1,34 @@
+<mat-sidenav-container class="nav-container">
+    <mat-sidenav 
+    #sidenav
+    class="sidenav"
+    mode="side"
+    closed
+    fixedInViewport="true"
+    fixedTopGap="100">
+        <mat-list class="mat-list">
+            <a mat-list-item routerLink="/">
+                <i class="material-icons">home</i>
+                Home
+            </a>
+        </mat-list>
+        <mat-list class="mat-list">
+            <a mat-list-item routerLink="/list-products">
+                <i class="material-icons">videogame_asset</i>
+                Products
+            </a>
+        </mat-list>
+        <mat-list class="mat-list">
+            <a mat-list-item href="">
+                <i class="material-icons">import_contacts</i>
+                About us
+            </a>
+        </mat-list>
+    </mat-sidenav>
+    <mat-sidenav-content class="content">
+        <button mat-icon-button (click)="sidenav.toggle()" class="mat-nav-button">
+            <i class="material-icon">< Menu</i>
+        </button>
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
+</mat-sidenav-container>

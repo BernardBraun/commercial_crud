@@ -1,0 +1,83 @@
+{
+    "products":[
+        {
+            "name": "PlayStaton 5",
+            "imglink": "https://www.imagensempng.com.br/wp-content/uploads/2020/12/bg-fng_0010_ps5_optimized.png",
+            "category": "Videogames",
+            "price": 6000,
+            "amount": 15,
+            "id": 1
+        },
+        {
+            "name": "PlayStaton 4 Slim",
+            "imglink": "https://w7.pngwing.com/pngs/325/256/png-transparent-sony-playstation-4-slim-video-game-consoles-others-electronics-playstation-4-video-game.png",
+            "category": "Videogames",
+            "price": 1900,
+            "amount": 8,
+            "id": 2
+        },{
+            "name": "Xbox Series X",
+            "imglink": "https://toppng.com/uploads/preview/microsoft-xbox-console-series-x-11642907401xphbhg2ykv.png",
+            "category": "Videogames",
+            "price": 3500,
+            "amount": 20,
+            "id": 3
+        },{
+            "name": "Xbox Series S",
+            "imglink": "https://toppng.com/uploads/preview/black-xbox-series-s-console-with-controller-11642881002ahiiwebezn.png",
+            "category": "Videogames",
+            "price": 2100,
+            "amount": 9,
+            "id": 4
+        },{
+            "name": "Xbox One",
+            "imglink": "https://toppng.com/uploads/preview/xbox-one-console-transparent-11562942324xbd9hyiibh.png",
+            "category": "Videogames",
+            "price": 1800,
+            "amount": 5,
+            "id": 5
+        },{
+            "name": "Nintendo Switch",
+            "imglink": "https://toppng.com/uploads/preview/titanone-nintendoswitch-nintendo-switch-11563224893tgxk6meix6.png",
+            "category": "Videogames",
+            "price": 4100,
+            "amount": 3,
+            "id": 6
+        },{
+            "name": "Nintendo Wii U",
+            "imglink": "https://www.pikpng.com/pngl/m/252-2528893_wii-u-png-transparent-wii-u-wind-waker.png",
+            "category": "Videogames",
+            "price": 1500,
+            "amount": 2,
+            "id": 7
+        },{
+            "name": "Headphne Sony",
+            "imglink": "https://pngset.com/images/sony-wh-1000xm3-wireless-noise-cancelling-headphones-electronics-headset-blow-dryer-appliance-transparent-png-1066265.png",
+            "category": "Accessories",
+            "price": 250,
+            "amount": 4,
+            "id": 8
+        },{
+            "name": "Microphone Hyper X Quadcast",
+            "imglink": "https://images.tcdn.com.br/img/img_prod/711542/180_microfone_hyperx_gamer_quadcast_1277_1_20201116173632.png",
+            "category": "Accessories",
+            "price": 400,
+            "amount": 6,
+            "id": 9
+        },{
+            "name": "Solid Snake Action Figure",
+            "imglink": "https://media.entertainmentearth.com/assets/images/eb4f43af0ed543be9ca0efe16daee202lg.jpg",
+            "category": "Figures",
+            "price": 700,
+            "amount": 3,
+            "id": 10
+        },{
+            "name": "Super Mario Fireball Figure",
+            "imglink": "https://www.hobbymania.com.br/img/products/super-mario-sh-figuarts-fire-bandai_1_600.png",
+            "category": "Figures",
+            "price": 900,
+            "amount": 1,
+            "id": 11
+        }
+    ]
+}
